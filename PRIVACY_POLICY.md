@@ -42,7 +42,7 @@ We only store data to:
 ## 5. Data Removal
 
 You may request deletion of your server’s or your own stored data by contacting us via our support server:
-[Support Server](https://discord.gg/YOUR_SUPPORT_LINK)
+[Support Server](https://discord.gg/bGaGFbMqAV)
 
 ## 6. Security
 
@@ -54,7 +54,7 @@ We may update this Privacy Policy if needed. Changes will be announced via our s
 
 ## 8. Contact
 
-If you have questions or concerns about this policy, reach out on our [Support Server](https://discord.gg/YOUR_SUPPORT_LINK).
+If you have questions or concerns about this policy, reach out on our [Support Server](https://discord.gg/bGaGFbMqAV).
 
 ---
 
